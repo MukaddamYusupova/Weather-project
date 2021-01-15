@@ -1,0 +1,4 @@
+Weather project
+
+In this project the user will be able to enter any country and get its weather information any time he wants.
+It is done by using Javascript, Node.js, JSON, API and other packages like express, https and body-parser.
